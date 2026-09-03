@@ -52,7 +52,7 @@ A clean and easy-to-use dashboard provides quick access to all major features.
 
 The application provides a modern and user-friendly interface where users can easily navigate through different AI-powered research tools.
 
-![Research Paper AI Assistant Dashboard](assets/dashboard.png)
+![image_alt](https://github.com/shubham444das-cpu/Research-Paper-AI-Assistant/blob/4663ef4aa1fa17806cd1425ef3b31c114be0cb54/Screenshot%202026-09-03%20135348.png)
 
 ---
 
